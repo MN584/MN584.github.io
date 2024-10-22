@@ -7,9 +7,9 @@ slotValueOne.innerText = valueOne
 slotValueThree.innerText = valueThree
 
 function spin() {
-let valueOne = Math.floor(Math.random()*10))
-  let valueTwo = Math.floor(Math.random()*10)) 
-    let valueThree = Math.floor(Math.random()*10))
+valueOne = Math.floor(Math.random()*10))
+valueTwo = Math.floor(Math.random()*10)) 
+valueThree = Math.floor(Math.random()*10))
 slotValueTwo.innerText = valueTwo
 slotValueOne.innerText = valueOne
 slotValueThree.innerText = valueThree
