@@ -5,3 +5,4 @@ function spin() {
 let valueOne = 6
   slotValueOne.innerText = valueOne
 }
+spin()
