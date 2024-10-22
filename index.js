@@ -1,1 +1,1 @@
-let wheelValue
+let slotValueOne = 0;
