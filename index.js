@@ -1,1 +1,2 @@
-let slotValueOne = 0;
+let valueOne = 0
+slotValueOne.innertext = valueOne
