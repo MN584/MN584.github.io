@@ -1,4 +1,4 @@
-button {
+.button {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -9,6 +9,6 @@ button {
     border-radius: 5px;
 }
 
-slot-btn {
+#slot-btn {
     background: darkred;
 }
