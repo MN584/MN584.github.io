@@ -9,6 +9,6 @@ button {
     border-radius: 5px;
 }
 
-#increment-btn {
+slot-btn {
     background: darkred;
 }
